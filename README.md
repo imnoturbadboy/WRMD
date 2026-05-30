@@ -1,4 +1,4 @@
-# WCMD
+# WCMD for Arduino IDE
 # WiFi CSI Motion Detector by imnoturbadboy
 
 Passive motion detection for the M5Cardputer using Wi-Fi Channel State Information (CSI). The device operates in promiscuous mode, capturing 802.11 data frames from a selected access point and analyzing signal amplitude variance to infer human movement - without any dedicated sensors.
