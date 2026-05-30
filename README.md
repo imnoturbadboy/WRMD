@@ -87,7 +87,7 @@ Press `G` to toggle the radar overlay (requires prior calibration). Press `V` to
 - Requires active network traffic on the monitored AP — detection quality degrades on low-activity networks
 - Amplitude-based CSI proxy is less precise than hardware CSI; environmental RF noise affects baseline stability
 - Distance estimation in radar view is heuristic and not geometrically accurate
-- Client counting is approximate; some clients may be missed depending on traffic volume during the scan window
+- Client counting is approximate some clients may be missed depending on traffic volume during the scan window
 
 ---
 
