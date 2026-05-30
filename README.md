@@ -91,12 +91,6 @@ Press `G` to toggle the radar overlay (requires prior calibration). Press `V` to
 
 ---
 
-## License
-
-MIT
-
----
-
 ## Author
 
-[imnoturbadboy](https://github.com/imnoturbadboy)
+[imnoturbadboy]|(https://github.com/imnoturbadboy)|(t.me/trac3back)
