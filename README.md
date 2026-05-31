@@ -130,9 +130,9 @@ Deviation-to-distance mapping (approximate, environment-dependent):
 
 Typical values: -100 to -20 dBm
 
-- >-50 dBm → Excellent (green)
+- > -50 dBm → Excellent (green)
 - -70 to -50 dBm → Good (yellow)
-- <-70 dBm → Weak (red)
+- < -70 dBm → Weak (red)
 
 ### EMA Smoothing
 current_amplitude = ALPHA * rssi + (1-ALPHA) * current_amplitude;
