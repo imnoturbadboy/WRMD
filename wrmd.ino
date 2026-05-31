@@ -1076,8 +1076,7 @@ void setup() {
     M5Cardputer.Display.fillScreen(BLACK);
     M5Cardputer.Display.setTextColor(WHITE);
     M5Cardputer.Display.drawString("WiFi RSSI Motion Detector", 30, 35);
-    M5Cardputer.Display.drawString("by imnoturbadboy", 15, 55);
-    M5Cardputer.Display.drawString("RSSI-based, EMA smoothing", 20, 75);
+    M5Cardputer.Display.drawString("by imnoturbadboy", 15, 75);
     M5Cardputer.Display.drawString("https://github.com/imnoturbadboy", 15, 95);
     delay(2000);
     current_mode = MODE_SCAN;
